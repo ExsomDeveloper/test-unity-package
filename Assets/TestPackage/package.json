@@ -12,18 +12,17 @@
         {
             "displayName": "Test1",
             "description": "Test1",
-            "path": "Samples~/Test1"
+            "path": "Samples/Test1"
         },
         {
             "displayName": "Test2",
             "description": "Test2",
-            "path": "Samples~/Test2"
+            "path": "Samples/Test2"
         },
         {
             "displayName": "Test3",
             "description": "Test3",
-            "path": "Samples~/Test3"
+            "path": "Samples/Test3"
         }
     ]
-
 }
