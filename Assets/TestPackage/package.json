@@ -1,0 +1,29 @@
+{
+    "name": "com.pimpochkagames.test",
+    "displayName": "Test",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "author": "Pimpochka Games",
+    "description": "Test",
+    "dependencies": {
+    },
+    "keywords": [ "pimpochkagames", "unity", "test" ],
+    "samples": [
+        {
+            "displayName": "Test1",
+            "description": "Test1",
+            "path": "Samples~/Test1"
+        },
+        {
+            "displayName": "Test2",
+            "description": "Test2",
+            "path": "Samples~/Test2"
+        },
+        {
+            "displayName": "Test3",
+            "description": "Test3",
+            "path": "Samples~/Test3"
+        }
+    ]
+
+}
